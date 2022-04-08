@@ -1,0 +1,14 @@
+#Made by RedBoy for ThunderLand
+#    _   __      _______           __  ______      ____
+#   / | / /___  / ____(_)_________/ /_/ ____/___ _/ / /
+#  /  |/ / __ \/ /_  / / ___/ ___/ __/ /_  / __ `/ / /
+# / /|  / /_/ / __/ / / /  (__  ) /_/ __/ / /_/ / / /
+#/_/ |_/\____/_/   /_/_/  /____/\__/_/    \__,_/_/_/
+
+
+#This is the name of the "spawn" region
+spawn-name: "spawn"
+#This is the delay in tick, between region spawn check
+check-time: 10
+#This is the name of the world where is located the spawn region
+world-name: "world"

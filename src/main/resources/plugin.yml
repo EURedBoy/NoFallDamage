@@ -1,0 +1,6 @@
+name: NoFirstFallDamage
+version: '${project.version}'
+main: me.red.Main
+authors: [ Red ]
+description: No First Fall Damage plugin for ThunderLand
+depend: [WorldGuard,WorldEdit]
